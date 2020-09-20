@@ -12,12 +12,4 @@ export default {
     fetchWesternMovies: `discover/movie?api_key=${API_KEY}&with_genres=37`,
     fetchAnimationMovies: `discover/movie?api_key=${API_KEY}&with_genres=16`,
     fetchTV: `discover/movie?api_key=${API_KEY}&with_genres10770`,
-
-
-
-
-
-
-
-
 }
