@@ -3,7 +3,7 @@
 > This a clone of Hulu, the app to watch movies and series .
   Made in React, It's a fully  responsive  site.
 
-[Imgur](https://imgur.com/wOb9KX2)
+![Imgur](https://imgur.com/wOb9KX2)
 
 ## Built With
 
